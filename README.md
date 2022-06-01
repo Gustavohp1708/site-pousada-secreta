@@ -27,5 +27,6 @@ ________________________________________________________________________________
 
 
 **Obs.:** Pousada Secreta é um hotel fictício, a criação foi feita exclusivamente para treinar e aperfeiçoar meu primeiro contato com HTML e CSS.
+
   **© Feito por Gustavo Carvalho 🧑‍💻.** 06/2021
 
