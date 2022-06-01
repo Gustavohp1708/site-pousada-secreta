@@ -4,19 +4,19 @@
 ______________________________________________________________________________________________________________________________
 
 ### Página inicial
-![image](https://user-images.githubusercontent.com/89874318/171498611-06cf9a63-597e-4b42-ba08-67a6f70bca1c.png) 
+![image](https://user-images.githubusercontent.com/89874318/171502468-f5164847-04c3-41b0-ba8b-9048abc39dc5.png)
 ______________________________________________________________________________________________________________________________
 
-### Página Quartos <div class="conteudo" id="quartos">
- ![image](https://user-images.githubusercontent.com/89874318/171500429-921338b5-736e-4f15-88f2-26dc77cf8e05.png)
+### Página Quartos 
+ ![image](https://user-images.githubusercontent.com/89874318/171502533-dfb52af3-6c83-42e8-b87b-7237fdd63c04.png)
 ______________________________________________________________________________________________________________________________
  
 ### Página Rota
-![image](https://user-images.githubusercontent.com/89874318/171501695-e718caf2-8e25-4b4a-aa28-6a2f787fa511.png)
+![image](https://user-images.githubusercontent.com/89874318/171503400-7664b398-196b-4e1c-9b7e-91b23920e23c.png)
 ______________________________________________________________________________________________________________________________
          
 ### Página Sobre
-![image](https://user-images.githubusercontent.com/89874318/171501387-a8ec936f-6f30-4374-b678-50ffa07b46df.png)
+![image](https://user-images.githubusercontent.com/89874318/171503233-c0a92547-5c2b-4dd7-a7d9-fea7cde72c21.png)
 ______________________________________________________________________________________________________________________________
 
   ## Projeto Final
@@ -27,5 +27,5 @@ ________________________________________________________________________________
 
 
 **Obs.:** Pousada Secreta é um hotel fictício, a criação foi feita exclusivamente para treinar e aperfeiçoar meu primeiro contato com HTML e CSS.
-  **© Feito por Gustavo Carvalho 🧑‍💻.**
+  **© Feito por Gustavo Carvalho 🧑‍💻.** 06/2021
 
