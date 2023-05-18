@@ -32,6 +32,14 @@ body {
     color: rgb(100,100,100);   
 }
 
+.logo, link, .link4, .link5 {
+    text-decoration: none;
+    font-size: 10px;
+    font-weight: bold;
+    padding: 0px 5px 0px 5px;
+    color: rgb(100,100,100);   
+}
+
 span {
     color: cornflowerblue;
 }
@@ -45,7 +53,7 @@ span {
     padding: 0px 15px 0px 15px;    
 }
 
-.link1:hover, .link2:hover, .link3:hover {
+.link1:hover, .link2:hover, .link3:hover, .link4:hover, .link5:hover {
     border-bottom: 3px solid #6592c9;
 }
 
